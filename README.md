@@ -1,6 +1,6 @@
 # Clash-Royale_Chest-System 
 
-Implementation : 
+###Implementation : 
       1) Implementd MVC Design Pattern for the Chest system
       2) Implented Observer Pattern to update UI
       3) Implementd Generic Singleton class used for the Chest service and Event Service.
